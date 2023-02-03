@@ -1,22 +1,22 @@
 {
-  "name": "suprisal",
+  "name": "surprisal",
   "version": "1.0.4",
-  "description": "Compute the suprisal of an event given its probability.",
+  "description": "Compute the surprisal of an event given its probability.",
   "type": "module",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oelin/suprisal.git"
+    "url": "git+https://github.com/oelin/surprisal.git"
   },
   "keywords": [
-    "suprisal",
+    "surprisal",
     "probability",
     "statistics"
   ],
   "author": "oelin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/oelin/suprisal/issues"
+    "url": "https://github.com/oelin/surprisal/issues"
   },
-  "homepage": "https://github.com/oelin/suprisal#readme"
+  "homepage": "https://github.com/oelin/surprisal#readme"
 }
