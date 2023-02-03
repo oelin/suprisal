@@ -1,6 +1,6 @@
 {
   "name": "suprisal",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Compute the suprisal of an event given its probability.",
   "type": "module",
   "main": "index.js",
